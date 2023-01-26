@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v4_2 {
+  width: 100%;
+  height: 3432px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_6 {
+  width: 100%;
+  height: 100%;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_5 {
+  width: 100%;
+  height: 100%;
+  background: url("../images/v7_5.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v13_2 {
+  width: 100%;
+  height: 100%;
+  background: url("../images/v13_2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1144px;
+  left: 0px;
+  overflow: hidden;
+}
+.v13_3 {
+  width: 100%;
+  height: 100%;
+  background: url("../images/v13_3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2288px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_3 {
+  width: 141px;
+  color: url("../images/v4_3.png");
+  position: absolute;
+  top: 53px;
+  left: 99px;
+  font-family: Josefin Slab;
+  font-weight: Bold;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
