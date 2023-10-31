@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://sanjibweb.live/TP/KEY/Getkey.php?id=281356&key
 #EXTINF:-1 tvg-id="281356" group-title="Kids" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney HD 
@@ -263,7 +265,7 @@ http://sanjibweb.live/TP/manifest.mpd?id=632
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://sanjibweb.live/TP/KEY/Getkey.php?id=52&key
 #EXTINF:-1 tvg-id="52" group-title="Entertainment" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",Colors HD
-http://sanjibweb.live/TP/manifest.mpd?id=52
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://sanjibweb.live/TP/KEY/Getkey.php?id=666&key
 #EXTINF:-1 tvg-id="666" group-title="Movies" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31419-jmb48u74-v3/imageContent-31419-jmb48u74-m4.png",Tata Play Theatre HD
